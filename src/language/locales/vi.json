@@ -1,0 +1,10 @@
+{
+  "common": {
+    "title": "Work with your team",
+    "botTitle": "Smarter - Faster - Easier"
+  },
+  "validate": {
+    "email": "Please input your email!",
+    "password": "Please input your password!"
+  }
+}
